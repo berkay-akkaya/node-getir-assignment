@@ -31,6 +31,7 @@ router.post('/', async (req, res) => {
             },
             {
                 $project: {
+                    _id: 0,
                     key: 1,
                     totalCount: {$sum: "$counts"},
                     createdAt: 1

@@ -34,7 +34,6 @@ To connect and manage queries "mongoose" library was used.
     "msg": "Success",
     "records": [
         {
-            "_id": "5ee21587e07f053f990ceb74",
             "key": "kOCLyeUi",
             "createdAt": "2016-12-27T12:31:59.635Z",
             "totalCount": 2088
